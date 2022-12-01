@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+
+.cabecalho {
+    background-color: rgb(20,93,160);
+    height: 150px;  
+}
+
+.promepets-logo {
+    background: url('3.png') ;
+    background-size: 160px;
+    height: 100%;
+    width: 160px;
+}
+
+.dropdown {
+    text-align: left;
+}
